@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[akt:home|Door43 (akt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-akt|d43-akt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-akt/archive/master.zip|d43-akt.zip]]
+
+**Recent Changes**
+{{changes>ns = akt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/akt|Ethnologue data]]
+
